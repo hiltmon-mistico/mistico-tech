@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Body */
 body {
-	font-family: "Libre Baskerville";
+	font-family: "Libre Baskerville", serif;
 	background-color: #f2f2f2;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -22,7 +22,7 @@ body {
 
 /* Navigation */
 header {
-	font-family: "Lato";
+	font-family: "Lato", sans-serif;
 	width: 100%;
 	height: 5%;
 	background-color: #024E5C;
@@ -79,7 +79,7 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	font-family: "Lato";
+	font-family: "Lato", sans-serif;
 	background-color: #506183;
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -168,7 +168,7 @@ ul li:hover a {
 	background-repeat: no-repeat;
 }
 .parallax {
-	font-family: "Lato";
+	font-family: "Lato", sans-serif;
 	color: #F2F2F2;
 	text-align: right;
 	padding-right: 100px;
